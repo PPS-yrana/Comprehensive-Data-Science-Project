@@ -1,0 +1,20 @@
+{
+  "model": "Ridge (tuned)",
+  "trained_on_rows": 100,
+  "cv_r2": 0.38,
+  "cv_mae": 58787.531,
+  "cv_rmse": 74825.004,
+  "products": [
+    "Headphones",
+    "Laptop",
+    "Monitor",
+    "Phone",
+    "Tablet"
+  ],
+  "regions": [
+    "East",
+    "North",
+    "South",
+    "West"
+  ]
+}
